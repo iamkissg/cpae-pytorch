@@ -1,0 +1,1 @@
+from cpae.predictors.cpae_predictor import CPAEDefinitionEmbeddingGenerator
